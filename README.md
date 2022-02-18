@@ -1,7 +1,11 @@
 # LING220-notes
 
-[Phonetics 1](Phonetics I - Organs of Articulation.md)
+[Phonetics I](Phonetics I - Organs of Articulation.md)
 
-[Phonetics I - Organs of Articulation.md]
+[Phonetics II](Phonetics II - American English.md)
 
-test
+[Phonetics III]
+
+[Phonology I]
+
+[Phonology II]
