@@ -1,4 +1,6 @@
-# LING220-notes - Carlo Mehegan
+# LING220-notes
+
+Carlo Mehegan
 
 [Phonetics I](Phonetics I - Organs of Articulation.md)
 
